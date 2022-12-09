@@ -1,0 +1,29 @@
+/*used to style the root node */
+.root {
+	/*changes color of background of entire root node to specified color*/
+	-fx-background-color:"#111111"; /*colors can be specified using name or hexadecimal values */
+}
+
+/*.class_name is used to style entire class of items */
+.label{
+	/*changes font size for all labels to specific amount*/
+	-fx-font-size: 20;
+	
+	/*changes font family for all labels */
+	-fx-font-family: "Lucida Console";
+	
+	/*changes font color for all labels */
+	-fx-text-fill: "white";
+	
+	/*aligns all labels to center of container */
+	-fx-alignment: center;
+	/*if this does not work by itself, make the width of the labels in scene
+	 * builder to match the width of the container they are in */
+}
+
+/*#item_name is used to style a specific item */
+#titleLabel {
+	/*specifically changes text size of this label */
+	-fx-font-size: 60;
+	
+}

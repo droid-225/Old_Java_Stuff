@@ -1,0 +1,150 @@
+1. basic:
+ * Arrays
+	array initialization
+	using for loop to access array elements
+	2D array initialization
+	using for loop to access 2D array elements
+	ArrayList initialization
+	useful methods for ArrayList
+	using for loop to access ArrayList elements
+	2D ArrayList initialization
+	using for loop to access 2D ArrayList elements
+
+ * Loops
+	while loops
+	for loops
+	nested loops
+	using for loop to parse through ArrayLists
+
+ * MathClass
+	useful methods from java.Math class
+
+ * Scanning
+	Scanner class
+
+ * Basics
+	eclipse sysout shortcut
+
+	escape sequences
+
+	declaration/assignment/initialization
+
+	data types in java
+
+	expression/operands/operators
+
+	using Integer.parseInt method
+
+	logical operators
+
+	definition of the "final" keyword and example
+
+	definition of "static" keyword
+	example of static variable and method
+
+ * Statements
+	if statement
+	switch statement
+
+ * Strings
+	useful String class methods 
+
+* Friend (example class for static keyword explanation)
+	name variable
+	static variable nameOfFriends
+	constructor for Friend() class
+	static method displayFriends()
+
+2. GUI
+ * Basic
+	javax setup
+	JOptionPane methods
+
+3. misc
+ *Printf
+	how to use printf function (formatted print statements)
+ 
+* Randoms
+	Random class methods
+
+ * Wrapper
+	wrapper classes
+	autoboxing
+	unboxing
+
+4. OOP
+ *Car (example object class)
+	attributes of Car() class
+	drive() method
+	brake() method
+	overwritten toString() method
+	*two methods of writing return statement
+
+ *Main 
+	creating instance of Car() class
+	printing attributes from Car() object
+	using methods from Car() class using Car() object
+
+	what is a constructor?
+	creating new instances of Human() class
+	fetching and printing values of attributes of Human() objects
+	using methods from Human() class
+
+	definition of local/global variables
+	instance of DiceRoller() class
+
+	definition of overloaded constructors
+	components of a method signature
+	instance of Pizza class with 4 parameters
+	instance of Pizza class with 3 parameters
+	instance of Pizza class with 2 parameters
+	instance of Pizza class with 1 parameters
+	instance of Pizza class with 0 parameters
+	print statements to print ingredients of pizza
+
+	definition of toString() method
+	instance of Car() class
+	implicitly using toString() method
+	explicitly using toString() method
+
+	arrays of objects
+	two ways of making array of objects
+
+	new instance of Garage() class
+	two new instances of Car2() class
+	passing the new Car2() objects into the park method of the Garage() class
+
+ *Human (example constructor class)
+	declaring class variables
+	constructor of Human() class
+	eat method (example of how to fetch variable data in same class)
+	drink method (^)
+
+ *DiceRoller (example for local/global variables)
+	definitions of local/global variables
+	declaring global variables
+	DiceRoller constructor:
+	*declaring local variables in DiceRoller constructor (method)
+	*instantiating global variables
+	*roll() method using local variables
+	*roll() method using global variables
+
+ *Pizza (example overloaded constructor class)
+	declaring variables
+	Pizza() class constructor with 4 parameters
+	Pizza() class constructor with 3 parameters
+	Pizza() class constructor with 2 parameters	
+	Pizza() class constructor with 1 parameters	
+	Pizza() class constructor with 0 parameters 
+ 
+*Food (example class for making arrays of objects)
+	name variable
+	constructor for Food() class
+
+ *Car2 (example class for object passing)
+	name variable
+	constructor for Car2() class
+
+ *Garage (example class for object passing)
+	park method
+
